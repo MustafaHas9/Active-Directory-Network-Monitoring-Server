@@ -1,4 +1,4 @@
-# Raspberry Pi Network Monitoring Server
+# Active Directory Network Monitoring Server
 
 A Raspberry Pi-based monitoring server for my [Active Directory Home Lab](https://github.com/MustafaHas9/Active-Directory-Home-Lab). The Raspberry Pi runs Debian 13 with Uptime Kuma deployed through Docker and monitors hosts and services across my physical network and isolated VirtualBox environment.
 

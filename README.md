@@ -181,9 +181,6 @@ FS01 was then restarted. Once connectivity was restored, Uptime Kuma detected th
 
 This test verified that MONITOR01 could detect both an outage and recovery for a server located on the routed VirtualBox network.
 
-## Technologies
-
-`Raspberry Pi` `Debian 13` `Linux` `Docker` `Uptime Kuma` `SSH` `TCP/IP` `ICMP` `DNS` `LDAP` `SMB` `Windows Server 2025` `RRAS` `VirtualBox`
 
 ## Misc
 

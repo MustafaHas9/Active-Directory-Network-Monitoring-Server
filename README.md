@@ -188,4 +188,3 @@ The Windows Server environment monitored in this project was built as part of my
 
 [Active Directory Home Lab](https://github.com/MustafaHas9/Active-Directory-Home-Lab)
 
-I used Ai to upscale some of the low resolution screenshots. As a result, some images may have leftover artifacts.
